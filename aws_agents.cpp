@@ -7,7 +7,7 @@
 #include <aws/s3/model/GetObjectRequest.h>
 #include <aws/s3/model/Object.h>
 
-#include "AWSAgent.h"
+#include "aws_agents.h"
 
 using namespace std;
 using namespace aws_agents;

@@ -1,0 +1,3 @@
+/home/ubuntu/programming/mpi/MPI/cmake_example/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/programming/mpi/MPI/cmake_example/CMakeFiles/hello.dir
+/home/ubuntu/programming/mpi/MPI/cmake_example/CMakeFiles/edit_cache.dir
